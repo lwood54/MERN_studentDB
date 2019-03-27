@@ -1,0 +1,8 @@
+{
+  "name": "MERN_studentDB",
+  "version": "1.0.0",
+  "description": "Practice using MERN stack making a DB of student data",
+  "main": "server.js",
+  "author": "Logan Wood <lwood3499@gmail.com>",
+  "license": "MIT"
+}
